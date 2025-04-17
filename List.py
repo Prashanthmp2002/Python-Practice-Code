@@ -34,3 +34,6 @@ print(li1)
 removed_ele = li1.pop(4)
 print(removed_ele)
 print(li1)
+
+del li1(1)
+print(li1)
